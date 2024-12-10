@@ -1,4 +1,4 @@
-package day.one;
+package adventofcode.day.one;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,6 @@
 package day.one;
 
+import adventofcode.day.one.AoCDayOne;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
